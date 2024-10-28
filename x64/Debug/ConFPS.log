@@ -1,0 +1,3 @@
+﻿  ConFPS.cpp
+C:\Users\Foucault_cmandelbrot\Documents\proyectos progra2\ConFPS\ConFPS.cpp(126,40): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ConFPS.vcxproj -> C:\Users\Foucault_cmandelbrot\Documents\proyectos progra2\ConFPS\x64\Debug\ConFPS.exe
